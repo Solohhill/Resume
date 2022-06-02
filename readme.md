@@ -28,11 +28,7 @@ I seek entry-level employment in Information Technology, where excellent analyti
 * Installing and configuring computer workstations. 
 * Installing Operating Systems
 
-### Lyft – Wilmington, Delaware    Feb 2021 – Dec 2021
-* Driver    
-* Respond to calls and track customers
-* Receive customers and safely deliver them to their specified location
-* Perform regular cleaning inspections of the vehicle to safeguard customer satisfaction
+
 
 ### United States Army – Wilmington, Delaware    Oct 2014 – Dec 2020
 * Information Technology Specialist     
@@ -44,20 +40,11 @@ I seek entry-level employment in Information Technology, where excellent analyti
 * Imaged and reimaged computers and laptops
 * Led team on command post node (CPN) mission scheduled for Iraq
 
-### Amazon – Newcastle, Delaware    Jan 2019 – Aug 2019
-* Delivery Driver    
-* Transported and delivered goods and supplies to clients promptly
-* Assisted loading and unloading of materials from delivery vehicles
-* Examined orders before and after delivery to ensure that orders were complete, and clients were satisfied
-
 ### Community Service 
 * Volunteered serving food at the University of Delaware.    
 * Staffed convocation of UD graduates. 
 
 ### Skills 
-* Leadership
-* Strong work ethic
-* Teamwork
-* Flexibility
 * Microsoft 365
 * G-Suite Experience
+* Networking (Switching & Routing)
