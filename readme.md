@@ -15,7 +15,7 @@ I seek entry-level employment in Information Technology, where excellent analyti
 * Tech Impact ITWorks – Wilmington, DE    Mar 2021 – July 2021
 	* 250+ hours of technical training
 	* 100+ hours of corporate-level professional development training
-	* CompTIA A+ certification    (in progress)
+	* CompTIA A+ certification   
 	* Cisco IT Essentials: PC Hardware and Software certification    
 * Penn Foster – Scranton, PA    Aug 2014
 
